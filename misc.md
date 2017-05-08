@@ -1,6 +1,6 @@
 ## Misc logo
 
-![Misc1-1](C:\Users\Sissel\Desktop\tsctf\TSCTF2017\img\Misc1-1.png)
+![Misc1-1](https://raw.githubusercontent.com/boke1208/TSCTF2017/master/img/Misc1-1.png)
 
 天枢的logo，用十六进制编辑器打开在图片末尾发现了一个Base64字符串
 
@@ -33,7 +33,7 @@ def encode(datas, iv):
 	return base64.b64encode(cyphertext) #base64编码一下
 ```
 
-![easyCrypto](C:\Users\Sissel\Desktop\tsctf\TSCTF2017\img\easyCrypto.png)
+![easyCrypto](https://raw.githubusercontent.com/boke1208/TSCTF2017/master/img/easyCrypto.png)
 
 ```python
 import struct
@@ -185,7 +185,7 @@ flag:TSCTF{rc4_1s_n0t_D1f5ic4lt__!!}
 
 最后剩下的就是一个条形码了，用matlab作图即可。
 
-![Misc-four](C:\Users\Sissel\Desktop\tsctf\TSCTF2017\img\Misc-four.png)
+![Misc-four](https://raw.githubusercontent.com/boke1208/TSCTF2017/master/img/Misc-four.png)
 
 ---
 

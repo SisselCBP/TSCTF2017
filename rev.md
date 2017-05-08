@@ -2,7 +2,7 @@
 
 将比较的跳转NOP掉之后就可以在如图所示处读出Flag
 
-![Rev-checkin](C:\Users\Sissel\Desktop\tsctf\TSCTF2017\img\Rev-checkin.png)
+![Rev-checkin](https://raw.githubusercontent.com/boke1208/TSCTF2017/master/img/Rev-checkin.png)
 
 ---
 
